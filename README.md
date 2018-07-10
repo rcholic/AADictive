@@ -1,0 +1,2 @@
+AADictive (Azure Active Directory)
+===
